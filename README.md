@@ -1,11 +1,10 @@
-# Car_Price_Prediction
 
-# Car_Price_Predictions - Proposal  
-# Overview:
+
+### Overview:
 This project aims to test and validate features which effect the price of the car, based on validating  different kind 
 of  experiments to finalize the best R square score result.
 
-# Data Description:
+### Data Description:
 |Features |Type
 |:-------:|:-------:|
 car_ID|int64 
@@ -37,7 +36,7 @@ boreratio|float64
 fuelsystem|int
 enginesize|int64
 
-# Tools:
+### Tools:
 *	Pandas and NumPy packages to manipulate data. 
 *	Matplotlib library for visualizing data. 
 *	LinearRegression from the sklearn.linear_model class of the sklearn module, to perform the linear regression then predicted the price. 
